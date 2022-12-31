@@ -1,0 +1,6 @@
+﻿  infix.cpp
+d:\programs\dsa\l6 challenge c infix expression evaluation\l6 challenge c infix expression evaluation\infix.cpp(232): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\programs\dsa\l6 challenge c infix expression evaluation\l6 challenge c infix expression evaluation\infix.cpp(235): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\programs\dsa\l6 challenge c infix expression evaluation\l6 challenge c infix expression evaluation\infix.cpp(243): warning C4715: 'performOperation': not all control paths return a value
+  L6 Challenge C Infix expression evaluation.vcxproj -> D:\Programs\DSA\L6 Challenge C Infix expression evaluation\Debug\L6 Challenge C Infix expression evaluation.exe
+  L6 Challenge C Infix expression evaluation.vcxproj -> D:\Programs\DSA\L6 Challenge C Infix expression evaluation\Debug\L6 Challenge C Infix expression evaluation.pdb (Partial PDB)
